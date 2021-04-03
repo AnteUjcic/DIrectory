@@ -1,0 +1,13 @@
+C:\Users\anteu\source\repos\KlasaPath\KlasaPath\bin\Debug\netcoreapp3.1\KlasaPath.exe
+C:\Users\anteu\source\repos\KlasaPath\KlasaPath\bin\Debug\netcoreapp3.1\KlasaPath.deps.json
+C:\Users\anteu\source\repos\KlasaPath\KlasaPath\bin\Debug\netcoreapp3.1\KlasaPath.runtimeconfig.json
+C:\Users\anteu\source\repos\KlasaPath\KlasaPath\bin\Debug\netcoreapp3.1\KlasaPath.runtimeconfig.dev.json
+C:\Users\anteu\source\repos\KlasaPath\KlasaPath\bin\Debug\netcoreapp3.1\KlasaPath.dll
+C:\Users\anteu\source\repos\KlasaPath\KlasaPath\bin\Debug\netcoreapp3.1\KlasaPath.pdb
+C:\Users\anteu\source\repos\KlasaPath\KlasaPath\obj\Debug\netcoreapp3.1\KlasaPath.csprojAssemblyReference.cache
+C:\Users\anteu\source\repos\KlasaPath\KlasaPath\obj\Debug\netcoreapp3.1\KlasaPath.AssemblyInfoInputs.cache
+C:\Users\anteu\source\repos\KlasaPath\KlasaPath\obj\Debug\netcoreapp3.1\KlasaPath.AssemblyInfo.cs
+C:\Users\anteu\source\repos\KlasaPath\KlasaPath\obj\Debug\netcoreapp3.1\KlasaPath.csproj.CoreCompileInputs.cache
+C:\Users\anteu\source\repos\KlasaPath\KlasaPath\obj\Debug\netcoreapp3.1\KlasaPath.dll
+C:\Users\anteu\source\repos\KlasaPath\KlasaPath\obj\Debug\netcoreapp3.1\KlasaPath.pdb
+C:\Users\anteu\source\repos\KlasaPath\KlasaPath\obj\Debug\netcoreapp3.1\KlasaPath.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\anteu\source\repos\FileKlasa\FileKlasa\bin\Debug\netcoreapp3.1\FileKlasa.exe
+C:\Users\anteu\source\repos\FileKlasa\FileKlasa\bin\Debug\netcoreapp3.1\FileKlasa.deps.json
+C:\Users\anteu\source\repos\FileKlasa\FileKlasa\bin\Debug\netcoreapp3.1\FileKlasa.runtimeconfig.json
+C:\Users\anteu\source\repos\FileKlasa\FileKlasa\bin\Debug\netcoreapp3.1\FileKlasa.runtimeconfig.dev.json
+C:\Users\anteu\source\repos\FileKlasa\FileKlasa\bin\Debug\netcoreapp3.1\FileKlasa.dll
+C:\Users\anteu\source\repos\FileKlasa\FileKlasa\bin\Debug\netcoreapp3.1\FileKlasa.pdb
+C:\Users\anteu\source\repos\FileKlasa\FileKlasa\obj\Debug\netcoreapp3.1\FileKlasa.AssemblyInfoInputs.cache
+C:\Users\anteu\source\repos\FileKlasa\FileKlasa\obj\Debug\netcoreapp3.1\FileKlasa.AssemblyInfo.cs
+C:\Users\anteu\source\repos\FileKlasa\FileKlasa\obj\Debug\netcoreapp3.1\FileKlasa.csproj.CoreCompileInputs.cache
+C:\Users\anteu\source\repos\FileKlasa\FileKlasa\obj\Debug\netcoreapp3.1\FileKlasa.dll
+C:\Users\anteu\source\repos\FileKlasa\FileKlasa\obj\Debug\netcoreapp3.1\FileKlasa.pdb
+C:\Users\anteu\source\repos\FileKlasa\FileKlasa\obj\Debug\netcoreapp3.1\FileKlasa.genruntimeconfig.cache

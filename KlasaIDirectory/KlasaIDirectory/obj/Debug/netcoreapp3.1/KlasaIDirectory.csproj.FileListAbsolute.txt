@@ -1,0 +1,13 @@
+C:\Users\anteu\source\repos\KlasaIDirectory\KlasaIDirectory\bin\Debug\netcoreapp3.1\KlasaIDirectory.exe
+C:\Users\anteu\source\repos\KlasaIDirectory\KlasaIDirectory\bin\Debug\netcoreapp3.1\KlasaIDirectory.deps.json
+C:\Users\anteu\source\repos\KlasaIDirectory\KlasaIDirectory\bin\Debug\netcoreapp3.1\KlasaIDirectory.runtimeconfig.json
+C:\Users\anteu\source\repos\KlasaIDirectory\KlasaIDirectory\bin\Debug\netcoreapp3.1\KlasaIDirectory.runtimeconfig.dev.json
+C:\Users\anteu\source\repos\KlasaIDirectory\KlasaIDirectory\bin\Debug\netcoreapp3.1\KlasaIDirectory.dll
+C:\Users\anteu\source\repos\KlasaIDirectory\KlasaIDirectory\bin\Debug\netcoreapp3.1\KlasaIDirectory.pdb
+C:\Users\anteu\source\repos\KlasaIDirectory\KlasaIDirectory\obj\Debug\netcoreapp3.1\KlasaIDirectory.csprojAssemblyReference.cache
+C:\Users\anteu\source\repos\KlasaIDirectory\KlasaIDirectory\obj\Debug\netcoreapp3.1\KlasaIDirectory.AssemblyInfoInputs.cache
+C:\Users\anteu\source\repos\KlasaIDirectory\KlasaIDirectory\obj\Debug\netcoreapp3.1\KlasaIDirectory.AssemblyInfo.cs
+C:\Users\anteu\source\repos\KlasaIDirectory\KlasaIDirectory\obj\Debug\netcoreapp3.1\KlasaIDirectory.csproj.CoreCompileInputs.cache
+C:\Users\anteu\source\repos\KlasaIDirectory\KlasaIDirectory\obj\Debug\netcoreapp3.1\KlasaIDirectory.dll
+C:\Users\anteu\source\repos\KlasaIDirectory\KlasaIDirectory\obj\Debug\netcoreapp3.1\KlasaIDirectory.pdb
+C:\Users\anteu\source\repos\KlasaIDirectory\KlasaIDirectory\obj\Debug\netcoreapp3.1\KlasaIDirectory.genruntimeconfig.cache
